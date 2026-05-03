@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   resourceName: Human Race
   displayName: 
-  icon: {fileID: 21300000, guid: 9176b48a2857c364280b4f5b9d620852, type: 3}
+  icon: {fileID: 21300000, guid: eb77d58ebeaafea4c83cfad0fc8c870c, type: 3}
   iconBackgroundImage: {fileID: 0}
   description: 
