@@ -1,0 +1,357 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1267758197046447074
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -2250577998077050392, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: prefabProfileName
+      value: Reality Tear
+      objectReference: {fileID: 0}
+    - target: {fileID: -2250577998077050392, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: checkOptionsToSpawn
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2250577998077050392, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: namePlateProps.displayName
+      value: Reality Tear
+      objectReference: {fileID: 0}
+    - target: {fileID: -2250577998077050392, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: namePlateProps.unitFrameCameraLookOffset.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2250577998077050392, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: namePlateProps.unitFrameCameraPositionOffset.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 923791936493398442, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 923791936493398442, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 923791936493398442, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 923791936493398442, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 923791936493398442, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4740583708716488629, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4740583708716488629, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4740583708716488629, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4740583708716488629, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: glowOnMouseOver
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: interactableName
+      value: Reality Tear
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: prefabProfileName
+      value: Reality Tear
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: namePlateProps.displayName
+      value: Reality Tear
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: prerequisiteConditions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: namePlateProps.unitFrameCameraLookOffset.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: namePlateProps.unitFrameCameraPositionOffset.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: namePlateProps.unitFrameCameraPositionOffset.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: prerequisiteConditions.Array.data[0].questPrerequisites.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: prerequisiteConditions.Array.data[0].questPrerequisites.Array.data[0].requireTurnedIn
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: prerequisiteConditions.Array.data[0].questPrerequisites.Array.data[1].requireTurnedIn
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: prerequisiteConditions.Array.data[0].questPrerequisites.Array.data[0].prerequisiteName
+      value: Report Back To Camp
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: prerequisiteConditions.Array.data[0].questPrerequisites.Array.data[1].prerequisiteName
+      value: Defend The Knights
+      objectReference: {fileID: 0}
+    - target: {fileID: 8041192655154556244, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_Name
+      value: RealityTear
+      objectReference: {fileID: 0}
+    - target: {fileID: 8041192655154556244, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3618036040281900042}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8041192655154556244, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2715494969483362792}
+  m_SourcePrefab: {fileID: 100100000, guid: a7ce10ba524f72e43853c1b73975d6d4, type: 3}
+--- !u!4 &17243967625483689 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+    type: 3}
+  m_PrefabInstance: {fileID: 1267758197046447074}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &9083748631357204150 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8041192655154556244, guid: a7ce10ba524f72e43853c1b73975d6d4,
+    type: 3}
+  m_PrefabInstance: {fileID: 1267758197046447074}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2715494969483362792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9083748631357204150}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28cfd650e3655ee498d29cc48bda0215, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questGiverProps:
+    interactionPanelTitle: 
+    interactionPanelImage: {fileID: 0}
+    namePlateImage: {fileID: 0}
+    prerequisiteConditions:
+    - requireAny: 0
+      reverseMatch: 0
+      levelPrerequisites: []
+      characterClassPrerequisites: []
+      questPrerequisites:
+      - prerequisiteName: Report Back To Camp
+        stepIndex: -1
+        requireComplete: 0
+        requireTurnedIn: 1
+      - prerequisiteName: Defend The Knights
+        stepIndex: -1
+        requireComplete: 0
+        requireTurnedIn: 1
+      dialogPrerequisites: []
+      visitZonePrerequisites: []
+      tradeSkillPrerequisites: []
+      abilityPrerequisites: []
+      factionPrerequisites: []
+    quests: []
+    questGiverProfileNames:
+    - Reality Tear
+--- !u!1001 &4212279662369994549
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 17243967625483689}
+    m_Modifications:
+    - target: {fileID: 594719882608259903, guid: 52af258d97dad84478fe2446076dc7b4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 594719882608259903, guid: 52af258d97dad84478fe2446076dc7b4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 594719882608259903, guid: 52af258d97dad84478fe2446076dc7b4,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 594719882608259903, guid: 52af258d97dad84478fe2446076dc7b4,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 594719882608259903, guid: 52af258d97dad84478fe2446076dc7b4,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 594719882608259903, guid: 52af258d97dad84478fe2446076dc7b4,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 594719882608259903, guid: 52af258d97dad84478fe2446076dc7b4,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 594719882608259903, guid: 52af258d97dad84478fe2446076dc7b4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 594719882608259903, guid: 52af258d97dad84478fe2446076dc7b4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 594719882608259903, guid: 52af258d97dad84478fe2446076dc7b4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6760841765996351095, guid: 52af258d97dad84478fe2446076dc7b4,
+        type: 3}
+      propertyPath: m_Name
+      value: BluePortalInteractable
+      objectReference: {fileID: 0}
+    - target: {fileID: 6760841765996351095, guid: 52af258d97dad84478fe2446076dc7b4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 9056139226748570408, guid: 52af258d97dad84478fe2446076dc7b4,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 52af258d97dad84478fe2446076dc7b4, type: 3}
+--- !u!4 &3618036040281900042 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 594719882608259903, guid: 52af258d97dad84478fe2446076dc7b4,
+    type: 3}
+  m_PrefabInstance: {fileID: 4212279662369994549}
+  m_PrefabAsset: {fileID: 0}
