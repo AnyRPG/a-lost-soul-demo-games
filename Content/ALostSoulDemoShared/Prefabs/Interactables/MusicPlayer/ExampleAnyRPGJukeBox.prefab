@@ -32,234 +32,6 @@ Transform:
   - {fileID: 1605369350486269876}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &571344699967029759
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 2366367834520971481}
-    m_Modifications:
-    - target: {fileID: -2250577998077050392, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: namePlateProps.displayName
-      value: Rusty Old JukeBox
-      objectReference: {fileID: 0}
-    - target: {fileID: -2250577998077050392, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: namePlateProps.unitFrameCameraLookOffset.y
-      value: 0.25
-      objectReference: {fileID: 0}
-    - target: {fileID: -2250577998077050392, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: namePlateProps.unitFrameCameraPositionOffset.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -2250577998077050392, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: namePlateProps.unitFrameCameraPositionOffset.z
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4740583708716488629, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_Size.x
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4740583708716488629, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_Size.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4740583708716488629, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_Center.y
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4740583708716488629, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_IsTrigger
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6933948215130008292, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.433
-      objectReference: {fileID: 0}
-    - target: {fileID: 6933948215130008292, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6933948215130008292, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6933948215130008292, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: hasNameplate
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: interactableName
-      value: Rusty Old JukeBox
-      objectReference: {fileID: 0}
-    - target: {fileID: 8041192655154556244, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_Name
-      value: DefaultInteractableUnit
-      objectReference: {fileID: 0}
-    - target: {fileID: 8367804770674361126, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2189559354181975897}
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 8041192655154556244, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 3455430984091196820}
-    - targetCorrespondingSourceObject: {fileID: 8041192655154556244, guid: a7ce10ba524f72e43853c1b73975d6d4,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 8116201639618496520}
-  m_SourcePrefab: {fileID: 100100000, guid: a7ce10ba524f72e43853c1b73975d6d4, type: 3}
---- !u!4 &1605369350486269876 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 571344699967029759}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &7527165239484345515 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8041192655154556244, guid: a7ce10ba524f72e43853c1b73975d6d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 571344699967029759}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &3455430984091196820
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7527165239484345515}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 28cfd650e3655ee498d29cc48bda0215, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  questGiverProps:
-    interactionPanelTitle: 
-    interactionPanelImage: {fileID: 0}
-    namePlateImage: {fileID: 0}
-    prerequisiteConditions: []
-    quests: []
-    questGiverProfileNames:
-    - Juke Box
---- !u!114 &8116201639618496520
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7527165239484345515}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 15618592824c5da44bda912b087e617a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  musicPlayerProps:
-    interactionPanelTitle: 
-    interactionPanelImage: {fileID: 0}
-    namePlateImage: {fileID: 0}
-    prerequisiteConditions: []
-    audioType: 0
-    audioProfileNames:
-    - A Secret To Tell You
-    - Cave Mysterious Melody
-    - Cheerful Xylophone
-    - Crystal Cave
-    - Dark Spooky Forest
-    - Desert Caravan
-    - Dramatic Menu Loop
-    - Magic Town
-    - Sad Violin
-    - Town Theme Bright
-    - Town Theme Sad
-    - Battle Theme A
-    - Battle Theme B
-    - Before The War
-    - Epic Boss Battle
-    - Ambient Dungeon Cave
-    - Ambient Wind
 --- !u!1001 &2060889408327510724
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -364,3 +136,216 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2060889408327510724}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7965922314952707285
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2366367834520971481}
+    m_Modifications:
+    - target: {fileID: 245425560069984829, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: hasNamePlate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 245425560069984829, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: hasNameplate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 245425560069984829, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: glowOnMouseOver
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 245425560069984829, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: interactableName
+      value: Rusty Old JukeBox
+      objectReference: {fileID: 0}
+    - target: {fileID: 245425560069984829, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: checkOptionsToSpawn
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 245425560069984829, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: suppressInteractionWindow
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 502565618688254078, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_Name
+      value: DefaultInteractableUnit
+      objectReference: {fileID: 0}
+    - target: {fileID: 2107997726159801868, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2929759911410113183, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2929759911410113183, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2929759911410113183, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2929759911410113183, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6969471912871830333, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.327
+      objectReference: {fileID: 0}
+    - target: {fileID: 8704278066669917025, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8704278066669917025, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8704278066669917025, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8704278066669917025, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8704278066669917025, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8704278066669917025, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8704278066669917025, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8704278066669917025, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8704278066669917025, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8704278066669917025, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8704278066669917025, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 8704278066669917025, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2189559354181975897}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 502565618688254078, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3455430984091196820}
+    - targetCorrespondingSourceObject: {fileID: 502565618688254078, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8116201639618496520}
+  m_SourcePrefab: {fileID: 100100000, guid: bc2828cd7c94a47468e6e0ca0f70a2c6, type: 3}
+--- !u!4 &1605369350486269876 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8704278066669917025, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+    type: 3}
+  m_PrefabInstance: {fileID: 7965922314952707285}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7527165239484345515 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 502565618688254078, guid: bc2828cd7c94a47468e6e0ca0f70a2c6,
+    type: 3}
+  m_PrefabInstance: {fileID: 7965922314952707285}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3455430984091196820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7527165239484345515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28cfd650e3655ee498d29cc48bda0215, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questGiverProps:
+    interactionPanelTitle: 
+    interactionPanelImage: {fileID: 0}
+    namePlateImage: {fileID: 0}
+    prerequisiteConditions: []
+    quests: []
+    questGiverProfileNames:
+    - Juke Box
+--- !u!114 &8116201639618496520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7527165239484345515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15618592824c5da44bda912b087e617a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  musicPlayerProps:
+    interactionPanelTitle: 
+    interactionPanelImage: {fileID: 0}
+    namePlateImage: {fileID: 0}
+    prerequisiteConditions: []
+    audioType: 0
+    audioProfileNames:
+    - A Secret To Tell You
+    - Cave Mysterious Melody
+    - Cheerful Xylophone
+    - Crystal Cave
+    - Dark Spooky Forest
+    - Desert Caravan
+    - Dramatic Menu Loop
+    - Magic Town
+    - Sad Violin
+    - Town Theme Bright
+    - Town Theme Sad
+    - Battle Theme A
+    - Battle Theme B
+    - Before The War
+    - Epic Boss Battle
+    - Ambient Dungeon Cave
+    - Ambient Wind
