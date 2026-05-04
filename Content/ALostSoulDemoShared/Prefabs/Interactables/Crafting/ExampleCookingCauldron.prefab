@@ -23,19 +23,21 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4058461827489954561}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3097377349246852521}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &4275781199507342306
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 5071118649648744478}
     m_Modifications:
     - target: {fileID: -2250577998077050392, guid: a7ce10ba524f72e43853c1b73975d6d4,
@@ -180,6 +182,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
         type: 3}
+      propertyPath: hasNameplate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
       propertyPath: interactableName
       value: Cooking Cauldron
       objectReference: {fileID: 0}
@@ -194,16 +201,27 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1302492945775078601}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8041192655154556244, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4066384524806982568}
   m_SourcePrefab: {fileID: 100100000, guid: a7ce10ba524f72e43853c1b73975d6d4, type: 3}
---- !u!1 &6111013357527658166 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8041192655154556244, guid: a7ce10ba524f72e43853c1b73975d6d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 4275781199507342306}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3097377349246852521 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+    type: 3}
+  m_PrefabInstance: {fileID: 4275781199507342306}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6111013357527658166 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8041192655154556244, guid: a7ce10ba524f72e43853c1b73975d6d4,
     type: 3}
   m_PrefabInstance: {fileID: 4275781199507342306}
   m_PrefabAsset: {fileID: 0}
@@ -230,6 +248,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 3097377349246852521}
     m_Modifications:
     - target: {fileID: 8577519184748100905, guid: 34330c4b5f9cd314f8098f1c2af660fc,
@@ -298,4 +317,13 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 34330c4b5f9cd314f8098f1c2af660fc, type: 3}
+--- !u!4 &1302492945775078601 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8953904741397718931, guid: 34330c4b5f9cd314f8098f1c2af660fc,
+    type: 3}
+  m_PrefabInstance: {fileID: 7949357480416529242}
+  m_PrefabAsset: {fileID: 0}

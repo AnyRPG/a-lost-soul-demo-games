@@ -23,6 +23,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7867273949576527691}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -31,7 +32,6 @@ Transform:
   - {fileID: 7507841616962024738}
   - {fileID: 5133407131710371754}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &8828278594545334979
 GameObject:
@@ -57,13 +57,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8828278594545334979}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 7867273949576527693}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!108 &5014023783161501507
 Light:
@@ -73,15 +73,14 @@ Light:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8828278594545334979}
   m_Enabled: 1
-  serializedVersion: 10
+  serializedVersion: 12
   m_Type: 2
-  m_Shape: 0
   m_Color: {r: 1, g: 0, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
-  m_CookieSize: 10
+  m_CookieSize2D: {x: 10, y: 10}
   m_Shadows:
     m_Type: 0
     m_Resolution: -1
@@ -125,18 +124,23 @@ Light:
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
+  m_ForceVisible: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+  m_LightUnit: 1
+  m_LuxAtDistance: 1
+  m_EnableSpotReflector: 1
 --- !u!1001 &8455696146913334363
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 7507841616962024738}
     m_Modifications:
     - target: {fileID: 265563737281055612, guid: 66ca81f71a254e348b33c1e9bab8190b,
         type: 3}
-      propertyPath: m_Materials.Array.data[0]
+      propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 366f06e72ffa0394a8b9b9d1101c3bfe, type: 2}
     - target: {fileID: 4210728803360061603, guid: 66ca81f71a254e348b33c1e9bab8190b,
@@ -271,6 +275,17 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 4210728803360061603, guid: 66ca81f71a254e348b33c1e9bab8190b, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8819615226925588762, guid: 66ca81f71a254e348b33c1e9bab8190b,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5023194512043699123}
+    - targetCorrespondingSourceObject: {fileID: 2150800636380460196, guid: 66ca81f71a254e348b33c1e9bab8190b,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1899944695893243586}
   m_SourcePrefab: {fileID: 100100000, guid: 66ca81f71a254e348b33c1e9bab8190b, type: 3}
 --- !u!1 &1098099350152557889 stripped
 GameObject:
@@ -286,12 +301,26 @@ MeshCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1098099350152557889}
   m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
   m_IsTrigger: 0
+  m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 4
+  serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -629986376292941662, guid: 590d2db81b1d860429bb32de2e310951, type: 3}
+--- !u!4 &2838545759605800234 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5925646996765813105, guid: 66ca81f71a254e348b33c1e9bab8190b,
+    type: 3}
+  m_PrefabInstance: {fileID: 8455696146913334363}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &7530448558609965311 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2150800636380460196, guid: 66ca81f71a254e348b33c1e9bab8190b,
@@ -306,9 +335,17 @@ MeshCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7530448558609965311}
   m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
   m_IsTrigger: 0
+  m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 4
+  serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -9057636008022124660, guid: 590d2db81b1d860429bb32de2e310951, type: 3}
@@ -317,6 +354,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 7867273949576527693}
     m_Modifications:
     - target: {fileID: -2250577998077050392, guid: a7ce10ba524f72e43853c1b73975d6d4,
@@ -501,6 +539,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
         type: 3}
+      propertyPath: hasNameplate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
       propertyPath: interactableName
       value: Strange Glowing Crystal
       objectReference: {fileID: 0}
@@ -515,6 +558,17 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 1273032228122582603, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2838545759605800234}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8041192655154556244, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 266542499063257571}
   m_SourcePrefab: {fileID: 100100000, guid: a7ce10ba524f72e43853c1b73975d6d4, type: 3}
 --- !u!1 &1586252371187664445 stripped
 GameObject:

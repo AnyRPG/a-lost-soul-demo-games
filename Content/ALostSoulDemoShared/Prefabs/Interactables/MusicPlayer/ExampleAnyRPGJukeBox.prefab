@@ -157,12 +157,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
         type: 3}
-      propertyPath: interactableName
-      value: Rusty Old JukeBox
+      propertyPath: hasNameplate
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
         type: 3}
-      propertyPath: namePlateProps.displayName
+      propertyPath: interactableName
       value: Rusty Old JukeBox
       objectReference: {fileID: 0}
     - target: {fileID: 8041192655154556244, guid: a7ce10ba524f72e43853c1b73975d6d4,
