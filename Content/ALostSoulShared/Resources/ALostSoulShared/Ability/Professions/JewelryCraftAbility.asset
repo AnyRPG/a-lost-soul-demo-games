@@ -97,7 +97,7 @@ MonoBehaviour:
       useUniversalAttachment: 0
       attachmentName: 
     despawnPrefabsOnCastEnd: 0
-    abilityPrefabSource: 0
+    abilityPrefabSource: 1
     animatorCreatePrefabs: 0
     prefabDestroyDelay: 0
     animationProfileName: Jewelry
