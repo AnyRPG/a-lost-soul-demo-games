@@ -45,7 +45,7 @@ MonoBehaviour:
     castingAudioClip: {fileID: 0}
     castingAudioProfileName: Resurrect Spell
     loopAudio: 0
-    requiredLevel: 5
+    requiredLevel: 4
     characterClassRequirements: []
     classSpecializationRequirements: []
     useableWithoutLearning: 0

@@ -42,7 +42,7 @@ MonoBehaviour:
     castingAudioClip: {fileID: 0}
     castingAudioProfileName: 
     loopAudio: 0
-    requiredLevel: 3
+    requiredLevel: 2
     characterClassRequirements: []
     classSpecializationRequirements: []
     useableWithoutLearning: 0
