@@ -30,7 +30,6 @@ MonoBehaviour:
     abilityPrefabSource: 0
     animatorCreatePrefabs: 0
     prefabDestroyDelay: 0
-    animationClip: {fileID: 0}
     animationProfileName: Hook Combo Punch
     useUnitCastAnimations: 0
     isAutoAttack: 0
@@ -43,7 +42,7 @@ MonoBehaviour:
     castingAudioClip: {fileID: 0}
     castingAudioProfileName: 
     loopAudio: 0
-    requiredLevel: 5
+    requiredLevel: 3
     characterClassRequirements: []
     classSpecializationRequirements: []
     useableWithoutLearning: 0
@@ -86,13 +85,8 @@ MonoBehaviour:
       groundTargetColor: {r: 1, g: 1, b: 1, a: 1}
       groundTargetRadius: 0
     tickRate: 1
-    inlineChannelingEffects: []
     channeledAbilityEffectnames: []
-    inlineAbilityEffects: []
     castEndAbilityEffectNames: []
     actionHitAbilityEffectNames:
     - Hook Combo Attack
     actionEndAbilityEffectNames: []
-  references:
-    version: 2
-    RefIds: []
