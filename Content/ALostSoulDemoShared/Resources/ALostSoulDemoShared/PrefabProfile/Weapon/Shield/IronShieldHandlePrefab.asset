@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 086cc19bb10d93146806ca499cfd21c7, type: 3}
-  m_Name: IronShieldPrefab
+  m_Name: IronShieldHandlePrefab
   m_EditorClassIdentifier: 
-  resourceName: Iron Shield
+  resourceName: Iron Shield Handle
   displayName: 
   icon: {fileID: 0}
   iconBackgroundImage: {fileID: 0}
@@ -20,7 +20,7 @@ MonoBehaviour:
   useRegionalDescription: 0
   resourceDescriptionProfile: 
   optionalOverride: 0
-  prefab: {fileID: 4469450963503605285, guid: 54027cc4dd57c814ebbc0d5f09e72936, type: 3}
+  prefab: {fileID: 5319069474142785129, guid: eaeb3c11b286f96469bdfa1f6b7b3401, type: 3}
   position: {x: 0, y: 0, z: 0}
   rotationIsGlobal: 0
   rotation: {x: 0, y: 0, z: 0}

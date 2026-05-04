@@ -46,6 +46,7 @@ MonoBehaviour:
       primaryAttachmentName: Shield Sheathed
       unsheathedAttachmentName: Left Hand
   inlineEquipmentModels:
+    applyToEquipmentName: 
     equipmentModels:
     - rid: 5705935833309905890
   sharedEquipmentModels: 
@@ -85,7 +86,7 @@ MonoBehaviour:
           holdableObjectList:
           - attachmentNodes:
             - equipmentSlotProfileName: Off Hand
-              holdableObjectName: Saxon Shield
+              holdableObjectName: Saxon Shield Handle
               useUniversalAttachment: 1
               primaryAttachmentName: Shield Sheathed
               unsheathedAttachmentName: Left Hand

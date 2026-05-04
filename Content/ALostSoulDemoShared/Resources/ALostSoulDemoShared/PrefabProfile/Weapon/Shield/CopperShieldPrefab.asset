@@ -19,7 +19,8 @@ MonoBehaviour:
   description: 
   useRegionalDescription: 0
   resourceDescriptionProfile: 
-  prefab: {fileID: 5319069474142785129, guid: 2a55878c4d3cb5b469aaf86ad90b2655, type: 3}
+  optionalOverride: 0
+  prefab: {fileID: 1905451374193217498, guid: 3bb89963a37fedc42abfa810de53dc8d, type: 3}
   position: {x: 0, y: 0, z: 0}
   rotationIsGlobal: 0
   rotation: {x: 0, y: 0, z: 0}
@@ -35,4 +36,3 @@ MonoBehaviour:
   pickupPosition: {x: 0, y: 0, z: 0}
   pickupRotation: {x: 0, y: 0, z: 0}
   pickupScale: {x: 1, y: 1, z: 1}
-  attachmentProfileName: 
