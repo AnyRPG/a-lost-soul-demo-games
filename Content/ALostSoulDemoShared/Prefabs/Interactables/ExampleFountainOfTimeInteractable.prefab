@@ -165,6 +165,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
         type: 3}
+      propertyPath: hasNameplate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7639965233247592215, guid: a7ce10ba524f72e43853c1b73975d6d4,
+        type: 3}
       propertyPath: interactableName
       value: Fountain Of Time
       objectReference: {fileID: 0}
