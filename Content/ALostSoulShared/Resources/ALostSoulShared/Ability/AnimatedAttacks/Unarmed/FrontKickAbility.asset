@@ -27,10 +27,9 @@ MonoBehaviour:
     - Unarmed
     holdableObjectList: []
     despawnPrefabsOnCastEnd: 0
-    abilityPrefabSource: 0
+    abilityPrefabSource: 1
     animatorCreatePrefabs: 0
     prefabDestroyDelay: 0
-    animationClip: {fileID: 0}
     animationProfileName: Front Kick
     useUnitCastAnimations: 0
     isAutoAttack: 0
@@ -86,13 +85,8 @@ MonoBehaviour:
       groundTargetColor: {r: 1, g: 1, b: 1, a: 1}
       groundTargetRadius: 0
     tickRate: 1
-    inlineChannelingEffects: []
     channeledAbilityEffectnames: []
-    inlineAbilityEffects: []
     castEndAbilityEffectNames: []
     actionHitAbilityEffectNames:
     - Melee Special Hit Attack
     actionEndAbilityEffectNames: []
-  references:
-    version: 2
-    RefIds: []

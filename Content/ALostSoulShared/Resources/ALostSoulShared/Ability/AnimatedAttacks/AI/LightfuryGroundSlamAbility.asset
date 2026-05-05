@@ -33,7 +33,7 @@ MonoBehaviour:
       useUniversalAttachment: 0
       attachmentName: 
     despawnPrefabsOnCastEnd: 0
-    abilityPrefabSource: 0
+    abilityPrefabSource: 1
     animatorCreatePrefabs: 1
     prefabDestroyDelay: 0
     animationProfileName: Lightfury Ground Slam
